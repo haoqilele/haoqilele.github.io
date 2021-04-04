@@ -86,7 +86,8 @@ author:
   location         : "New York, NY, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "{https://scholar.google.com/citations?user=QqpAM60AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=QqpAM60AAAAJ&hl=en&oi=ao"
+  cvresume         : "http://haoqilele.github.io/files/HaoqiLi_CV.pdf"
   email            : "haoqilele AT gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
