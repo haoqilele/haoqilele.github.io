@@ -26,6 +26,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
           <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={PeerJ Inc.}
           <br />}
       </details>
+
   2. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
   **Haoqi Li**, Brian Baucom, Shrikanth Narayanan, Panayiotis Georgiou.\
   <em> submitted to Computer Speech and Language </em>
@@ -47,4 +48,48 @@ You can see the complete list of my publications on <a href="https://scholar.goo
       </details>
 
 ## Conferences
+
+  1. Speaker-invariant Affective Representation Learning via Adversarial Training\
+  **Haoqi Li**, Yelin Kim, Cheng-Hao Kuo, Shrikanth Narayanan\
+  <em>Submitted to Interspeech 2021</em>
+
+  2. Speaker-invariant Affective Representation Learning via Adversarial Training\
+  **Haoqi Li**, Ming Tu, Jing Huang, Shrikanth Narayanan, Panayiotis Georgiou\
+  <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020 </em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1911.01533.pdf){:target="blank"}\]
+
+  3. Automatic prediction of suicidal risk in military couples using multimodal interaction cues from couples conversations\
+  Sandeep Nallan Chakravarthula, Md Nasir, Shao-Yen Tseng, **Haoqi Li**, Tae Jin Park, Brian Baucom, Craig J Bryan, Shrikanth Narayanan, Panayiotis Georgiou\
+  <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020 </em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1911.11927.pdf){:target="blank"}\]
+
+  4. An empirical analysis of information encoded in disentangled neural speaker representations\
+  Raghuveer Peri, **Haoqi Li**, Krishna Somandepalli, Arindam Jati, Shrikanth Narayanan
+  <em>Odyssey: The Speaker and Language Recognition Workshop, 2020. (Odyssey), 2020<em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2002.03520.pdf){:target="blank"}\]
+
+  5. Predicting Behavior in Cancer-Afflicted Patient and Spouse Interactions using Speech and Language\
+  **Haoqi Li<sup>\*</sup>**, Sandeep Nallan Chakravarthula<sup>\*</sup>, Shao-Yen Tseng, Maija Reblin, Panayiotis Georgiou\
+  <em>Proceedings of Interspeech (Interspeech), 2019</em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1908.00908.pdf){:target="blank"}\]
+
+  6. "Honey, I Learned to Talk": Multimodal Fusion for Behavior Analysis\
+  **Haoqi Li<sup>\*</sup>**, Shao-Yen Tseng<sup>\*</sup>, Brian Baucom, Panayiotis Georgiou\
+  <em>ACM International Conference on Multimodal Interaction (ICMI), 2018</em>
+  \[[<font color="brown">paper</font>](https://dl.acm.org/doi/10.1145/3242969.3242996){:target="blank"}\]
+
+  7. A Deep Reinforcement Learning Framework for Identifying Funny Scenes in Movies\
+  **Haoqi Li**, Naveen Kumar, Ruxin Chen, Panayiotis Georgiou\
+  <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018</em>
+  \[[<font color="brown">paper</font>](https://ieeexplore.ieee.org/document/8462686){:target="blank"}\]
+
+  8. Unsupervised Latent Behavior Manifold Learning from Acoustic Features: audio2behavior\
+  **Haoqi Li**, Brian Baucom and Panayiotis Georgiou\
+  <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017</em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1701.03198.pdf){:target="blank"}\]
+
+  9. Sparsely Connected and Disjointly Trained Deep Neural Networks for Low Resource Behavioral\Annotation: Acoustic Classification in Couples’ Therapy\
+  **Haoqi Li**, Brian Baucom and Panayiotis Georgiou\
+  <em>Proceedings of Interspeech (Interspeech), 2016</em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1606.04518.pdf){:target="blank"}\]
 
