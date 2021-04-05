@@ -93,3 +93,9 @@ You can see the complete list of my publications on <a href="https://scholar.goo
   <em>Proceedings of Interspeech (Interspeech), 2016</em>
   \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1606.04518.pdf){:target="blank"}\]
 
+## Patents
+
+  1. Deep reinforcement learning framework for characterizingvideo content\
+  Ruxin Chen, Naveen Kumar, **Haoqi Li**\
+  <em>U.S. Patent granted US10885341B2, 2021</em>
+  \[[<font color="brown">link</font>](https://patents.google.com/patent/US10885341B2/en){:target="blank"}\]
