@@ -49,7 +49,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
 ## Conferences
 
-  1. Acted vs. Improvised: DomainAdaptation for Elicitation Approaches inAudio-Visual Emotion Recognition.\
+  1. Acted vs. Improvised: Domain Adaptation for Elicitation Approaches inAudio-Visual Emotion Recognition.\
   **Haoqi Li**, Yelin Kim, Cheng-Hao Kuo, Shrikanth Narayanan\
   <em>Submitted to Interspeech 2021</em>
 
@@ -88,7 +88,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
   <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017</em>
   \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1701.03198.pdf){:target="blank"}\]
 
-  9. Sparsely Connected and Disjointly Trained Deep Neural Networks for Low Resource Behavioral\Annotation: Acoustic Classification in Couples’ Therapy\
+  9. Sparsely Connected and Disjointly Trained Deep Neural Networks for Low Resource Behavioral Annotation: Acoustic Classification in Couples’ Therapy\
   **Haoqi Li**, Brian Baucom and Panayiotis Georgiou\
   <em>Proceedings of Interspeech (Interspeech), 2016</em>
   \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1606.04518.pdf){:target="blank"}\]
