@@ -49,7 +49,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
 ## Conferences
 
-  1. Speaker-invariant Affective Representation Learning via Adversarial Training\
+  1. Acted vs. Improvised: DomainAdaptation for Elicitation Approaches inAudio-Visual Emotion Recognition.\
   **Haoqi Li**, Yelin Kim, Cheng-Hao Kuo, Shrikanth Narayanan\
   <em>Submitted to Interspeech 2021</em>
 
