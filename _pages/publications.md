@@ -12,7 +12,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
   1. Linking emotions to behaviors through deep transfer learning\
   **Haoqi Li**, Brian Baucom, Panayiotis Georgiou\
   <em> PeerJ Computer Science Journal 6:e246, 2020 </em>
-  \[[<font color="brown">paper</font>](https://peerj.com/articles/cs-246.pdf){:target="blank"}\]
+  \[[<font color="brown">paper</font>](https://peerj.com/articles/cs-246.pdf){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/haoqi/emotions_as_primitives_towards_behavior_understanding){:target="blank"}\]
       <details>
           <summary>bibtex</summary>
           <br />article{li2020linking,
@@ -27,7 +27,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
           <br />}
       </details>
 
-  2. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
+  1. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
   **Haoqi Li**, Brian Baucom, Shrikanth Narayanan, Panayiotis Georgiou.\
   <em> submitted to Computer Speech and Language </em>
 
@@ -51,8 +51,8 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
   1. Acted vs. Improvised: Domain Adaptation for Elicitation Approaches inAudio-Visual Emotion Recognition.\
   **Haoqi Li**, Yelin Kim, Cheng-Hao Kuo, Shrikanth Narayanan\
-  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.01978.pdf){:target="blank"}\]
   <em>Submitted to Interspeech 2021</em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.01978.pdf){:target="blank"}\]
 
   2. Speaker-invariant Affective Representation Learning via Adversarial Training\
   **Haoqi Li**, Ming Tu, Jing Huang, Shrikanth Narayanan, Panayiotis Georgiou\
@@ -66,7 +66,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
   4. An empirical analysis of information encoded in disentangled neural speaker representations\
   Raghuveer Peri, **Haoqi Li**, Krishna Somandepalli, Arindam Jati, Shrikanth Narayanan
-  <em>Odyssey: The Speaker and Language Recognition Workshop, 2020. (Odyssey), 2020<em>
+  <em>Odyssey: The Speaker and Language Recognition Workshop, 2020. (Odyssey), 2020</em>
   \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2002.03520.pdf){:target="blank"}\]
 
   5. Predicting Behavior in Cancer-Afflicted Patient and Spouse Interactions using Speech and Language\
