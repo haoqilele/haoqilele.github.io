@@ -27,9 +27,10 @@ You can see the complete list of my publications on <a href="https://scholar.goo
           <br />}
       </details>
 
-  1. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
+  2. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
   **Haoqi Li**, Brian Baucom, Shrikanth Narayanan, Panayiotis Georgiou.\
   <em> submitted to Computer Speech and Language </em>
+  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.03899.pdf){:target="blank"}\]
 
   3. Learning from Past Mistakes: Improving Automatic Speech Recognition Output via Noisy-Clean Phrase Context Modeling\
   Prashanth Gurunath Shivakumar, **Haoqi Li**, Kevin Knight, and Panayiotis Georgiou\
