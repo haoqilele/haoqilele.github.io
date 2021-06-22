@@ -22,17 +22,28 @@ You can see the complete list of my publications on <a href="https://scholar.goo
           <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={6},
           <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={e246},
           <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2020},
-          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2020},
           <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={PeerJ Inc.}
           <br />}
       </details>
 
-  2. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
+  1. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
   **Haoqi Li**, Brian Baucom, Shrikanth Narayanan, Panayiotis Georgiou.\
   <em> ComputerSpeech and Language, Volume 70, 2021,101226 </em>
   \[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0885230821000334){:target="blank"}\]
+      <details>
+        <summary>bibtex</summary>
+        <br />article{li2021unsupervised,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Unsupervised speech representation learning for behavior modeling using triplet enhanced contextualized networks},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Li, Haoqi and Baucom, Brian and Narayanan, Shrikanth and Georgiou, Panayiotis},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Computer Speech \& Language},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={70},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={101226},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={Elsevier}
+        <br />}
+      </details>
 
-  1. Learning from Past Mistakes: Improving Automatic Speech Recognition Output via Noisy-Clean Phrase Context Modeling\
+  3. Learning from Past Mistakes: Improving Automatic Speech Recognition Output via Noisy-Clean Phrase Context Modeling\
   Prashanth Gurunath Shivakumar, **Haoqi Li**, Kevin Knight, and Panayiotis Georgiou\
   <em>APSIPA Transactions on Signal and Information Processing 8 (2019) </em>
   \[[<font color="brown">paper</font>](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/learning-from-past-mistakes-improving-automatic-speech-recognition-output-via-noisyclean-phrase-context-modeling/0025A4B2DF4F33B90FB090A195D304ED){:target="blank"}\]
