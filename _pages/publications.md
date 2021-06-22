@@ -63,7 +63,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
   1. Acted vs. Improvised: Domain Adaptation for Elicitation Approaches in Audio-Visual Emotion Recognition.\
   **Haoqi Li**, Yelin Kim, Cheng-Hao Kuo, Shrikanth Narayanan\
-  <em>Interspeech 2021</em>
+  <em>Proceedings of Interspeech (Interspeech), 2021</em>
   \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.01978.pdf){:target="blank"}\]
 
   2. Speaker-invariant Affective Representation Learning via Adversarial Training\
