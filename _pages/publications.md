@@ -29,10 +29,10 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
   2. Unsupervised Speech Representation Learning for Behavior Modeling using Triplet Enhanced Contextualized Networks\
   **Haoqi Li**, Brian Baucom, Shrikanth Narayanan, Panayiotis Georgiou.\
-  <em> accepted by Computer Speech and Language </em>
-  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.03899.pdf){:target="blank"}\]
+  <em> ComputerSpeech and Language, Volume 70, 2021,101226 </em>
+  \[[<font color="brown">paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0885230821000334){:target="blank"}\]
 
-  3. Learning from Past Mistakes: Improving Automatic Speech Recognition Output via Noisy-Clean Phrase Context Modeling\
+  1. Learning from Past Mistakes: Improving Automatic Speech Recognition Output via Noisy-Clean Phrase Context Modeling\
   Prashanth Gurunath Shivakumar, **Haoqi Li**, Kevin Knight, and Panayiotis Georgiou\
   <em>APSIPA Transactions on Signal and Information Processing 8 (2019) </em>
   \[[<font color="brown">paper</font>](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/learning-from-past-mistakes-improving-automatic-speech-recognition-output-via-noisyclean-phrase-context-modeling/0025A4B2DF4F33B90FB090A195D304ED){:target="blank"}\]
@@ -52,7 +52,7 @@ You can see the complete list of my publications on <a href="https://scholar.goo
 
   1. Acted vs. Improvised: Domain Adaptation for Elicitation Approaches in Audio-Visual Emotion Recognition.\
   **Haoqi Li**, Yelin Kim, Cheng-Hao Kuo, Shrikanth Narayanan\
-  <em>Submitted to Interspeech 2021</em>
+  <em>Interspeech 2021</em>
   \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.01978.pdf){:target="blank"}\]
 
   2. Speaker-invariant Affective Representation Learning via Adversarial Training\
